@@ -54,9 +54,6 @@ rescue => ConnectionError
 end
 new_state.do_work
 
-
-
-
 # Exercise 5 Part 3 (Wrapping APIs)
 
 require 'candy_service'
